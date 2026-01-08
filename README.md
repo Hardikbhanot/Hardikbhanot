@@ -32,29 +32,7 @@
   <br/>
 
   <!-- GitHub Stats -->
-  <h3>📊 GitHub Stats</h3>
 
-</div>
-
-<!-- Using a Table for layout stability (matches your original working version) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hardikbhanot&show_icons=true&include_all_commits=true&theme=algolia" alt="Hardik's Stats" height="180" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikbhanot&theme=algolia" alt="Hardik's Streak" height="180" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikbhanot&layout=compact&theme=algolia&hide=html" alt="Top Languages" />
-</div>
-
-<div align="center">
-
-  <br/>
 
   <!-- Footer -->
   <h3>📫 Connect with me</h3>
